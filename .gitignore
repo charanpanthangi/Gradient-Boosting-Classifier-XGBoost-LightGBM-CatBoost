@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Data and figures
+figures/
+*.svg
+
+# OS files
+.DS_Store
+Thumbs.db
